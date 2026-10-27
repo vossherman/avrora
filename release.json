@@ -1,0 +1,28 @@
+{
+  "version": "0.1",
+  "date": "2026-10-27",
+  "platform": "Windows x64",
+  "python": "3.9.13",
+  "qt": "6.10.3",
+  "chromium": "134.0.6998.208",
+  "native_helper_imports": [
+    "KERNEL32.dll",
+    "api-ms-win-crt-convert-l1-1-0.dll",
+    "api-ms-win-crt-environment-l1-1-0.dll",
+    "api-ms-win-crt-heap-l1-1-0.dll",
+    "api-ms-win-crt-locale-l1-1-0.dll",
+    "api-ms-win-crt-math-l1-1-0.dll",
+    "api-ms-win-crt-private-l1-1-0.dll",
+    "api-ms-win-crt-runtime-l1-1-0.dll",
+    "api-ms-win-crt-stdio-l1-1-0.dll",
+    "api-ms-win-crt-string-l1-1-0.dll"
+  ],
+  "validation": {
+    "source_tests": 126,
+    "portable_exe_check": true,
+    "relocated_gui_check": true,
+    "unicode_and_spaces_path": true,
+    "system_python_paths_disabled": true,
+    "production_login_tested": false
+  }
+}

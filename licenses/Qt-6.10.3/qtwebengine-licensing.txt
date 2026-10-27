@@ -1,0 +1,1755 @@
+Source: https://doc.qt.io/qt-6.10/qtwebengine-licensing.html
+
+
+  
+
+  
+  
+  Qt WebEngine Licensing | Qt WebEngine | Qt 6.10.3
+
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+
+
+
+
+    
+
+
+        
+
+            
+
+                Back to Qt.io
+            
+
+            
+
+                Contact Us
+                Blog
+                Download Qt
+            
+
+        
+
+
+        
+
+            
+
+                
+                    
+                
+            
+
+            
+
+            
+                
+
+                
+
+
+                    
+                        
+English
+
+                    
+                
+
+                
+
+                  
+
+                    
+                        
+                        
+
+
+                    
+                  
+
+                
+
+                
+
+                    Archives
+                
+
+                
+
+                    Snapshots
+                
+
+            
+            
+
+            
+
+                
+
+
+            
+
+        
+
+    
+
+
+
+
+
+
+    
+
+        
+            
+
+
+            
+
+
+
+
+            
+
+
+                        
+
+                
+
+                                        
+                                            
+                                    
+
+                
+
+
+                
+                    
+
+
+                    
+                                                
+                    
+                
+            
+
+        
+        
+
+            
+
+                
+
+                    
+
+                        
+                            
+                            Search
+                            
+                        
+                    
+                    
+
+                        
+                            
+Qt 6.10
+
+                            
+Qt WebEngine
+
+                            
+Qt WebEngine Licensing
+
+                        
+                    
+
+                
+
+            
+
+            
+
+                
+                    
+On this page
+
+                    
+
+                    
+
+
+
+
+Upgrading from Qt 5
+Chromium License
+
+
+
+
+
+
+Qt WebEngine Licensing
+
+
+
+
+
+The Qt WebEngine module uses Chromium to provide most of its functionality. During the build process, Chromium becomes a part of the Qt WebEngine Core library. Therefore, when distributing Qt WebEngine, users need to comply to both the licenses of the Qt WebEngine part as developed under the Qt Project, as well as the licenses that are part of Chromium.
+
+
+The Qt specific parts of the Qt WebEngine module are available under commercial licenses from The Qt Company. Alternatively, they are available under GNU Lesser General Public License v3.0, or GNU General Public License v3.0, or GNU General Public License v2.0.
+
+
+The Chromium part contains code available under various licenses, with the most restrictive license being the GNU Lesser General Public License v2.1 (LGPL 2.1). For a full list, see Third-Party Licenses below.
+
+
+Complying with LGPL 2.1
+
+
+The Qt Company allows commercial customers to distribute the source code of the Qt WebEngine module alongside the Qt WebEngine binaries, and allows recipients to customize and build Qt WebEngine from sources. This includes building and using such a modified Qt WebEngine with an application or system using an otherwise commercially licensed Qt.
+
+
+The Qt Company also keeps the Qt specific parts of the Qt WebEngine module available under the GNU Lesser General Public License v3.0, or the GNU General Public License v3.0, or the GNU General Public License v2.0, even if WebEngine is released as part of a commercial-only Long-Term Support release (LTS, see also Long-Term Support releases).
+
+
+Third-Party Licenses
+
+
+Third party licenses included in the sources as part of Chromium are found below.
+
+
+
+
+Note: Any GPL licenses listed below are only used to access Linux system resources. The Qt WebEngine libraries and plugins does not link to nor distribute GPL binary code, and it does not affect users of Qt WebEngine.
+
+
+
+
+
+
+
+
+
+
+@puppeteer/replay
+
+Apache-2.0
+
+
+
+
+@vscode/web-custom-data
+
+MIT
+
+
+
+
+AXE-CORE Accessibility Audit
+
+MPL 2.0
+
+
+
+
+Abseil
+
+Apache-2.0
+
+
+
+
+Abseil
+
+Apache-2.0
+
+
+
+
+Acorn, a tiny, fast JavaScript parser written in JavaScript.
+
+MIT
+
+
+
+
+Alliance for Open Media Video Codec
+
+BSD-2-Clause, Patent
+
+
+
+
+Alliance for Open Media Video Codec
+
+BSD-2-Clause, Patent
+
+
+
+
+Almost Native Graphics Layer Engine
+
+BSD
+
+
+
+
+Android Explicit Synchronization
+
+Apache-2.0
+
+
+
+
+Android Explicit Synchronization
+
+Apache-2.0
+
+
+
+
+BoringSSL
+
+MIT, BSD-3-Clause, OpenSSL, ISC, SSLeay
+
+
+
+
+BoringSSL
+
+MIT, BSD-3-Clause, OpenSSL, ISC, SSLeay
+
+
+
+
+Brotli
+
+MIT
+
+
+
+
+Brotli
+
+MIT
+
+
+
+
+C++ Signal/Slot Library
+
+Ignorable
+
+
+
+
+C++ Signal/Slot Library
+
+Ignorable
+
+
+
+
+CRC32C
+
+BSD-3-Clause
+
+
+
+
+CRC32C
+
+BSD-3-Clause
+
+
+
+
+CSP Evaluator Core Library, a tool that allows developers to check if a Content Security Policy (CSP) serves as mitigation against XSS attacks
+
+Apache
+
+
+
+
+Chromium License
+
+BSD
+
+
+
+
+CityHash
+
+MIT
+
+
+
+
+CityHash
+
+MIT
+
+
+
+
+CodeMirror 5
+
+MIT
+
+
+
+
+CodeMirror 6
+
+MIT
+
+
+
+
+Compact Encoding Detection
+
+Apache-2.0
+
+
+
+
+Compact Encoding Detection
+
+Apache-2.0
+
+
+
+
+Compact Language Detector v3
+
+Apache-2.0
+
+
+
+
+Crashpad
+
+Apache-2.0
+
+
+
+
+Crashpad
+
+Apache-2.0
+
+
+
+
+Dawn
+
+BSD 3-Clause
+
+
+
+
+Devtools-Frontend
+
+BSD-3-Clause
+
+
+
+
+Emoji Segmenter
+
+Apache-2.0
+
+
+
+
+Expat XML Parser
+
+MIT
+
+
+
+
+Expat XML Parser
+
+MIT
+
+
+
+
+FP16
+
+MIT
+
+
+
+
+Fiat-Crypto: Synthesizing Correct-by-Construction Code for Cryptographic Primitives
+
+Apache 2.0
+
+
+
+
+Fiat-Crypto: Synthesizing Correct-by-Construction Code for Cryptographic Primitives
+
+Apache 2.0
+
+
+
+
+FlatBuffers
+
+Apache-2.0
+
+
+
+
+General Purpose FFT (Fast Fourier/Cosine/Sine Transform) Package
+
+Custome license
+
+
+
+
+General Purpose FFT (Fast Fourier/Cosine/Sine Transform) Package
+
+Custome license
+
+
+
+
+Google Double Conversion
+
+BSD-3-Clause
+
+
+
+
+Google Double Conversion
+
+BSD-3-Clause
+
+
+
+
+Headers for the Windows 10 WebAuthn API (webauthn.dll)
+
+MIT
+
+
+
+
+Highway: C++ library for SIMD
+
+Apache-2.0
+
+
+
+
+Implementation of WebDriver BiDi standard
+
+Apache 2.0
+
+
+
+
+Ink
+
+Apache-2.0
+
+
+
+
+Ink Stroke Modeler
+
+Apache-2.0
+
+
+
+
+LevelDB: A Fast Persistent Key-Value Store
+
+BSD-3-Clause
+
+
+
+
+Libtess2
+
+SGI Free Software License B
+
+
+
+
+Lighthouse
+
+Apache License 2.0
+
+
+
+
+Lighthouse i18n.js
+
+Apache License 2.0
+
+
+
+
+Lit
+
+BSD-3-Clause
+
+
+
+
+Lit
+
+BSD-3
+
+
+
+
+Lit
+
+BSD-3-Clause
+
+
+
+
+Marked
+
+MIT
+
+
+
+
+Material color utilities
+
+Apache-2.0
+
+
+
+
+Metrics Protos
+
+BSD-3-Clause
+
+
+
+
+Metrics Protos
+
+BSD-3-Clause
+
+
+
+
+NVidia Control X Extension Library
+
+MIT
+
+
+
+
+OTS (OpenType Sanitizer)
+
+BSD-3-Clause
+
+
+
+
+One Euro Filter
+
+BSD-3-Clause
+
+
+
+
+PDFium
+
+BSD
+
+
+
+
+PFFFT: a pretty fast FFT.
+
+pffft
+
+
+
+
+PFFFT: a pretty fast FFT.
+
+pffft
+
+
+
+
+PSM (Private Set Membership) client side
+
+Apache-2.0
+
+
+
+
+Paul Hsieh&#x27;s SuperFastHash
+
+BSD-3-Clause
+
+
+
+
+Paul Hsieh&#x27;s SuperFastHash
+
+BSD-3-Clause
+
+
+
+
+Perfetto
+
+Apache2
+
+
+
+
+Perfetto
+
+Apache2
+
+
+
+
+Polymer
+
+BSD-3-Clause
+
+
+
+
+Polymer
+
+BSD-3-Clause
+
+
+
+
+Protocol Buffers
+
+BSD-3-Clause
+
+
+
+
+Protocol Buffers
+
+BSD-3-Clause
+
+
+
+
+Protocol Buffers (javascript)
+
+BSD-3-Clause
+
+
+
+
+Protocol Buffers (javascript)
+
+BSD-3-Clause
+
+
+
+
+Puppeteer Core
+
+Apache-2.0
+
+
+
+
+QUICHE
+
+BSD-3-Clause
+
+
+
+
+QUICHE
+
+BSD-3-Clause
+
+
+
+
+Recurrent neural network for audio noise reduction
+
+BSD-3-Clause
+
+
+
+
+Recurrent neural network for audio noise reduction
+
+BSD-3-Clause
+
+
+
+
+SPIR-V Headers
+
+Apache-2.0
+
+
+
+
+SPIR-V Tools
+
+Apache-2.0
+
+
+
+
+Search Engines resources
+
+BSD-3-Clause
+
+
+
+
+Selenium Atoms
+
+Apache-2.0
+
+
+
+
+Simple Homomorphic Encryption Library with Lattices
+
+Apache-2.0
+
+
+
+
+Sizzle
+
+MIT
+
+
+
+
+Snappy: A fast compressor/decompressor
+
+BSD-3-Clause, CC-BY-4.0, MIT, CC-BY-3.0
+
+
+
+
+Speech Dispatcher
+
+LGPL-2.1
+
+
+
+
+The Chromium Project
+
+BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License
+
+
+
+
+The Chromium Project
+
+BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License
+
+
+
+
+The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchronizing plain text.
+
+Apache License 2.0
+
+
+
+
+The Incremental Distributed Point Functions library
+
+Apache-2.0
+
+
+
+
+URI Template Parser
+
+Apache-2.0
+
+
+
+
+URI Template Parser
+
+Apache-2.0
+
+
+
+
+URL Pattern Library
+
+MIT
+
+
+
+
+URL Pattern Library
+
+MIT
+
+
+
+
+V8 fork of fdlibm
+
+SunPro
+
+
+
+
+Volk Meta loader for Vulkan API
+
+MIT
+
+
+
+
+Vulkan API headers
+
+Apache-2.0
+
+
+
+
+Vulkan API headers
+
+Apache-2.0
+
+
+
+
+Vulkan Loader Components
+
+Apache-2.0
+
+
+
+
+VulkanMemoryAllocator
+
+MIT
+
+
+
+
+Wasmparser
+
+Apache
+
+
+
+
+Web Vitals
+
+Apache
+
+
+
+
+WebKit
+
+BSD and LGPL v2 and LGPL v2.1
+
+
+
+
+WebKit
+
+BSD and LGPL v2 and LGPL v2.1
+
+
+
+
+WebM container parser and writer.
+
+BSD-3-Clause, Patent
+
+
+
+
+WebP image encoder/decoder
+
+BSD-3-Clause, Patent
+
+
+
+
+WebP image encoder/decoder
+
+BSD-3-Clause, Patent
+
+
+
+
+WebRTC
+
+BSD
+
+
+
+
+WebRTC
+
+BSD
+
+
+
+
+Wicked Good XPath
+
+MIT
+
+
+
+
+Wuffs (Wrangling Untrusted File Formats Safely)
+
+Apache-2.0
+
+
+
+
+Wuffs (Wrangling Untrusted File Formats Safely)
+
+Apache-2.0
+
+
+
+
+Zstandard
+
+BSD-3-Clause
+
+
+
+
+Zstandard
+
+BSD-3-Clause
+
+
+
+
+cpuinfo
+
+BSD-2-Clause
+
+
+
+
+d3
+
+ISC
+
+
+
+
+d3
+
+ISC
+
+
+
+
+dav1d is an AV1 decoder :)
+
+BSD-2-Clause
+
+
+
+
+dav1d is an AV1 decoder :)
+
+BSD-2-Clause
+
+
+
+
+fast_float
+
+MIT
+
+
+
+
+ffmpeg
+
+LGPL 2.1
+
+
+
+
+fft
+
+Custom license
+
+
+
+
+fft
+
+Custom license
+
+
+
+
+flac
+
+BSD
+
+
+
+
+fontconfig
+
+public-domain-md5, MIT-Modern-Variant, HPND-sell-variant, MIT
+
+
+
+
+fontconfig
+
+public-domain-md5, MIT-Modern-Variant, HPND-sell-variant, MIT
+
+
+
+
+google-glog&#x27;s symbolization library
+
+BSD-3-Clause
+
+
+
+
+google-glog&#x27;s symbolization library
+
+BSD-3-Clause
+
+
+
+
+harfbuzz-ng
+
+MIT-Modern-Variant
+
+
+
+
+harfbuzz-ng
+
+MIT-Modern-Variant
+
+
+
+
+hunspell
+
+MPL-1.1
+
+
+
+
+icu
+
+MIT
+
+
+
+
+icu
+
+MIT
+
+
+
+
+inspector protocol
+
+BSD-3-Clause
+
+
+
+
+inspector protocol
+
+BSD
+
+
+
+
+intl-messageformat
+
+New BSD
+
+
+
+
+ipcz
+
+BSD
+
+
+
+
+ipcz
+
+BSD
+
+
+
+
+json5
+
+MIT
+
+
+
+
+jsoncpp
+
+JsonCPP
+
+
+
+
+jsoncpp
+
+JsonCPP
+
+
+
+
+libaddressinput
+
+Apache-2.0
+
+
+
+
+libavif - Library for encoding and decoding .avif files
+
+BSD-2-Clause, MIT
+
+
+
+
+libgav1
+
+Apache-2.0
+
+
+
+
+libpng
+
+Libpng-2.0, Libpng
+
+
+
+
+libpng
+
+Libpng-2.0, Libpng
+
+
+
+
+libsrtp
+
+3-clause BSD
+
+
+
+
+libsrtp
+
+3-clause BSD
+
+
+
+
+libvpx
+
+BSD-3-Clause, Patent
+
+
+
+
+libvpx
+
+BSD-3-Clause, Patent
+
+
+
+
+libxml
+
+MIT
+
+
+
+
+libxslt
+
+X11
+
+
+
+
+libyuv
+
+BSD
+
+
+
+
+libyuv
+
+BSD
+
+
+
+
+mesa_headers
+
+MIT, SGI-B-2.0
+
+
+
+
+minigbm
+
+BSD-3-Clause
+
+
+
+
+mitt
+
+MIT
+
+
+
+
+modp base64 decoder
+
+BSD-3-Clause
+
+
+
+
+modp base64 decoder
+
+BSD-3-Clause
+
+
+
+
+opus
+
+Opus-Patent-BSD-3-Clause
+
+
+
+
+opus
+
+Opus-Patent-BSD-3-Clause
+
+
+
+
+rapidhash
+
+BSD-2-Clause
+
+
+
+
+re2 - an efficient, principled regular expression library
+
+BSD-3-Clause
+
+
+
+
+re2 - an efficient, principled regular expression library
+
+BSD-3-Clause
+
+
+
+
+simdutf unicode transcoder
+
+MIT
+
+
+
+
+simdutf unicode transcoder
+
+MIT
+
+
+
+
+spl sqrt floor
+
+SPL-SQRT-FLOOR
+
+
+
+
+spl sqrt floor
+
+SPL-SQRT-FLOOR
+
+
+
+
+sqlite
+
+blessing
+
+
+
+
+sqlite
+
+blessing
+
+
+
+
+third-party-web
+
+MIT
+
+
+
+
+woff2
+
+MIT
+
+
+
+
+xdg-user-dirs
+
+MIT
+
+
+
+
+xdg-user-dirs
+
+MIT
+
+
+
+
+zlib
+
+Zlib
+
+
+
+
+zlib
+
+Zlib
+
+
+
+
+zod
+
+MIT
+
+
+
+
+
+
+Upgrading from Qt 5
+Chromium License
+
+
+
+
+
+
+© 2026 The Qt Company Ltd.
+   Documentation contributions included herein are the copyrights of
+   their respective owners.     The documentation provided herein is licensed under the terms of the    GNU Free Documentation    License version 1.3 as published by the Free Software Foundation.     Qt and respective logos are     trademarks of The Qt Company Ltd. in Finland and/or other countries
+   worldwide. All other trademarks are property of their respective owners. 
+
+
+                    
+
+                
+                
+                    
+
+                                                Contents
+                        
+                            
+
+
+Complying with LGPL 2.1
+
+
+
+
+Third-Party Licenses
+
+
+
+                        
+                                            
+
+                                        
+
+                                                Next
+                        
+                            
+
+Chromium License
+
+
+                        
+                                                Previous
+                        
+                            
+
+Upgrading from Qt 5
+
+
+                        
+                                            
+
+                                    
+            
+
+        
+
+    
+
+
+
+
+
+
+
+    
+
+        
+
+            
+
+                
+
+                    
+                    
+                    
+                
+
+                
+
+                    
+                    
+                    
+                    
+                
+
+                
+
+                        Contact Us
+                
+
+
+            
+
+            
+
+                
+
+
+                        
+
+
+  
+Qt Group
+   
+    
+Our Story
+
+    
+Brand
+
+    
+News
+
+    
+Careers
+
+    
+Investors
+
+    
+Qt Products
+
+    
+Software Quality Products
+
+   
+
+  
+Licensing
+   
+    
+License Agreement
+
+    
+Open Source
+
+    
+Plans and pricing
+
+    
+Download
+
+    
+FAQ
+
+   
+
+  
+Learn Qt
+   
+    
+For Learners
+
+    
+For Students and Teachers
+
+    
+Qt Documentation
+
+    
+Qt Forum
+
+   
+
+  
+Support & Services
+   
+    
+Professional Services
+
+    
+Customer Success
+
+    
+Support Services
+
+    
+Partners
+
+    
+Qt World
+
+   
+
+ 
+
+
+      
+
+   
+
+
+
+        
+
+            
+
+                
+
+                    
+
+ 
+  
+© 2026 The Qt Company
+
+  
+Feedback
+
+ 
+
+
+                    
+Qt Group includes The Qt Company Oy and its global subsidiaries and affiliates.
+
+                
+
+            
+
+            
+
+            
+
+        
+
+    
+
+
+
+

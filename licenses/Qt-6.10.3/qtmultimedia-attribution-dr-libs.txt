@@ -1,0 +1,475 @@
+Source: https://doc.qt.io/qt-6.10/qtmultimedia-attribution-dr-libs.html
+
+
+  
+
+  
+  
+  
+  DR Libs, version 0.14.5 | Qt Multimedia | Qt 6.10.3
+
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+
+
+
+
+    
+
+
+        
+
+            
+
+                Back to Qt.io
+            
+
+            
+
+                Contact Us
+                Blog
+                Download Qt
+            
+
+        
+
+
+        
+
+            
+
+                
+                    
+                
+            
+
+            
+
+            
+                
+
+                
+
+
+                    
+                        
+English
+
+                    
+                
+
+                
+
+                  
+
+                    
+                        
+                        
+
+
+                    
+                  
+
+                
+
+                
+
+                    Archives
+                
+
+                
+
+                    Snapshots
+                
+
+            
+            
+
+            
+
+                
+
+
+            
+
+        
+
+    
+
+
+
+
+
+
+    
+
+        
+            
+
+
+            
+
+
+
+
+            
+
+
+                        
+
+                
+
+                                        
+                                            
+                                    
+
+                
+
+
+                
+                    
+
+
+                    
+                                                
+                    
+                
+            
+
+        
+        
+
+            
+
+                
+
+                    
+
+                        
+                            
+                            Search
+                            
+                        
+                    
+                    
+
+                        
+                            
+Qt 6.10
+
+                            
+Qt Multimedia
+
+                            
+DR Libs, version 0.14.5
+
+                        
+                    
+
+                
+
+            
+
+            
+
+                
+                    
+
+                    
+
+
+
+
+DR Libs, version 0.14.5
+
+
+
+
+
+Public domain, single file audio decoding libraries for C and C++
+
+
+Wave file decoder for QSoundEffect
+
+
+The sources can be found in qtmultimedia/src/3rdparty/dr_libs.
+
+
+Project Homepage, upstream version: 0.14.5
+
+
+The Unlicense or MIT No Attribution.
+
+
+
+This software is available as a choice of the following licenses. Choose
+whichever you prefer.
+
+===============================================================================
+ALTERNATIVE 1 - Public Domain (www.unlicense.org)
+===============================================================================
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute this
+software, either in source code form or as a compiled binary, for any purpose,
+commercial or non-commercial, and by any means.
+
+In jurisdictions that recognize copyright laws, the author or authors of this
+software dedicate any and all copyright interest in the software to the public
+domain. We make this dedication for the benefit of the public at large and to
+the detriment of our heirs and successors. We intend this dedication to be an
+overt act of relinquishment in perpetuity of all present and future rights to
+this software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <http://unlicense.org/>
+
+===============================================================================
+ALTERNATIVE 2 - MIT No Attribution
+===============================================================================
+Copyright 2020 David Reid
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+
+
+
+
+
+
+© 2026 The Qt Company Ltd.
+   Documentation contributions included herein are the copyrights of
+   their respective owners.     The documentation provided herein is licensed under the terms of the    GNU Free Documentation    License version 1.3 as published by the Free Software Foundation.     Qt and respective logos are     trademarks of The Qt Company Ltd. in Finland and/or other countries
+   worldwide. All other trademarks are property of their respective owners. 
+
+
+                    
+
+                
+                
+                    
+
+                                            
+
+                                    
+            
+
+        
+
+    
+
+
+
+
+
+
+
+    
+
+        
+
+            
+
+                
+
+                    
+                    
+                    
+                
+
+                
+
+                    
+                    
+                    
+                    
+                
+
+                
+
+                        Contact Us
+                
+
+
+            
+
+            
+
+                
+
+
+                        
+
+
+  
+Qt Group
+   
+    
+Our Story
+
+    
+Brand
+
+    
+News
+
+    
+Careers
+
+    
+Investors
+
+    
+Qt Products
+
+    
+Software Quality Products
+
+   
+
+  
+Licensing
+   
+    
+License Agreement
+
+    
+Open Source
+
+    
+Plans and pricing
+
+    
+Download
+
+    
+FAQ
+
+   
+
+  
+Learn Qt
+   
+    
+For Learners
+
+    
+For Students and Teachers
+
+    
+Qt Documentation
+
+    
+Qt Forum
+
+   
+
+  
+Support & Services
+   
+    
+Professional Services
+
+    
+Customer Success
+
+    
+Support Services
+
+    
+Partners
+
+    
+Qt World
+
+   
+
+ 
+
+
+      
+
+   
+
+
+
+        
+
+            
+
+                
+
+                    
+
+ 
+  
+© 2026 The Qt Company
+
+  
+Feedback
+
+ 
+
+
+                    
+Qt Group includes The Qt Company Oy and its global subsidiaries and affiliates.
+
+                
+
+            
+
+            
+
+            
+
+        
+
+    
+
+
+
+

@@ -1,0 +1,2985 @@
+Source: https://doc.qt.io/qt-6.10/licenses-used-in-qt.html
+
+
+  
+
+  
+  
+  
+  Third-Party Code Used in Qt | Qt 6.10
+
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+
+
+
+
+    
+
+
+        
+
+            
+
+                Back to Qt.io
+            
+
+            
+
+                Contact Us
+                Blog
+                Download Qt
+            
+
+        
+
+
+        
+
+            
+
+                
+                    
+                
+            
+
+            
+
+            
+                
+
+                
+
+
+                    
+                        
+English
+
+                    
+                
+
+                
+
+                  
+
+                    
+                        
+                        
+
+
+                    
+                  
+
+                
+
+                
+
+                    Archives
+                
+
+                
+
+                    Snapshots
+                
+
+            
+            
+
+            
+
+                
+
+
+            
+
+        
+
+    
+
+
+
+
+
+
+    
+
+        
+            
+
+
+            
+
+
+
+
+            
+
+
+                        
+
+                
+
+                                        
+                                            
+                                    
+
+                
+
+
+                
+                    
+
+
+                    
+                                                
+                    
+                
+            
+
+        
+        
+
+            
+
+                
+
+                    
+
+                        
+                            
+                            Search
+                            
+                        
+                    
+                    
+
+                        
+                            
+Qt 6.10
+
+                            
+Product information
+
+                            
+Qt Licensing
+
+                            
+Third-Party Code Used in Qt
+
+                        
+                    
+
+                
+
+            
+
+            
+
+                
+                    
+On this page
+
+                    
+
+                    
+
+
+
+
+Qt Licensing
+License of Qt examples
+
+
+
+
+
+
+Third-Party Code Used in Qt
+
+
+
+
+
+Qt libraries and plugins can contain code that is not intellectual property of The Qt Company, but is available under specific open-source licenses from the original authors.
+
+
+The Qt Company gratefully acknowledges these and other contributions to Qt. We recommend that programs that use Qt also acknowledge these contributions and quote these license statements in an appendix to the documentation.
+
+
+
+
+Note: You only need to acknowledge and comply with the licenses of the third-party components that you are actually shipping with your application. Click the name of the component to see the licensing details.
+
+
+
+
+Third-party Licenses
+
+
+The following sections list third-party components in Qt 6.10.3, grouped by Qt module. If the third-party component itself consists of parts that are of a different origin (so-called 4th-party or Nth-party code), these are listed, too.
+
+
+Starting from Qt 6.8, Software Bill of Materials (SBOM) documents of third-party components in Qt are available. Information such as copyrights, licenses, versions, source repositories, and other relevant information are declared in SPDX 2.3 format. For more information, visit the Software Bill of Materials page.
+
+
+
+Qt 3D
+
+
+
+
+
+Dear ImGui - ProggyClean.ttf
+
+MIT License
+
+
+
+
+Dear ImGui - stb
+
+MIT License or Public Domain
+
+
+
+
+Dear ImGui, version v1.91.0
+
+MIT License
+
+
+
+
+Open Asset Import Library, version 6.0.4
+
+BSD 3-clause "New" or "Revised" Licensee
+
+
+
+
+
+Qt 5 Core Compatibility APIs
+
+
+
+
+
+Text Codec: EUC-JP
+
+BSD 2-clause "Simplified" License
+
+
+
+
+Text Codec: EUC-KR
+
+BSD 2-clause "Simplified" License
+
+
+
+
+Text Codec: GBK
+
+BSD 2-clause "Simplified" License
+
+
+
+
+Text Codec: ISO 2022-JP (JIS)
+
+BSD 2-clause "Simplified" License
+
+
+
+
+Text Codec: Shift-JIS
+
+BSD 2-clause "Simplified" License
+
+
+
+
+Text Codec: TSCII
+
+BSD 2-clause "Simplified" License
+
+
+
+
+Text Codecs: Big5, Big5-HKSCS
+
+BSD 2-clause "Simplified" License
+
+
+
+
+
+Qt Bluetooth
+
+
+
+
+
+BlueZ
+
+GNU General Public License v2.0 only (This does not force user code to be GPL'ed. For more info see details.)
+
+
+
+
+
+Qt Core
+
+
+
+
+
+Apache Tika MimeType Definitions, version 408c26e1e03e018a623e732dff6fb047a2fb8e19
+
+Apache License 2.0
+
+
+
+
+BLAKE2 (reference implementation), version ed1974ea83433eba7b2d95c5dcd9ac33cb847913
+
+Creative Commons Zero v1.0 Universal or Apache License 2.0
+
+
+
+
+Data Compression Library (zlib), version 1.3.2
+
+Zlib License
+
+
+
+
+Easing Equations by Robert Penner
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+Efficient Binary-Decimal and Decimal-Binary Conversion Routines for IEEE Doubles, version 3.4.0
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+MD4
+
+Public Domain
+
+
+
+
+MD5
+
+Public Domain
+
+
+
+
+PCRE2 - Stack-less Just-In-Time Compiler, version 10.47
+
+BSD 2-clause "Simplified" License
+
+
+
+
+PCRE2, version 10.47
+
+BSD 3-clause "New" or "Revised" License with PCRE2 binary-like Packages Exception
+
+
+
+
+QEventDispatcher on macOS
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+Secure Hash Algorithm SHA-1
+
+Public Domain
+
+
+
+
+Secure Hash Algorithm SHA-3 - Keccak, version 3.2
+
+Creative Commons Zero v1.0 Universal
+
+
+
+
+Secure Hash Algorithm SHA-3 - brg_endian, version 1.0.0
+
+BSD 2-clause "Simplified" License
+
+
+
+
+Secure Hash Algorithms SHA-384 and SHA-512
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+SipHash Algorithm
+
+Creative Commons Zero v1.0 Universal
+
+
+
+
+TinyCBOR, version 7.0
+
+MIT License
+
+
+
+
+Unicode Character Database (UCD), version 36
+
+Unicode License Agreement - Data Files and Software (2016)
+
+
+
+
+Unicode Common Locale Data Repository (CLDR), version v48.1
+
+Unicode License v3
+
+
+
+
+forkfd
+
+MIT License
+
+
+
+
+tl::expected, version 41d3e1f48d682992a2230b2a715bca38b848b269
+
+Creative Commons Zero v1.0 Universal
+
+
+
+
+
+Qt D-Bus
+
+
+
+
+
+libdbus-1 headers, version 1.13.12
+
+Academic Free License v2.1, or GNU General Public License v2.0 or later
+
+
+
+
+
+Qt GUI
+
+
+
+
+
+Adobe Glyph List For New Fonts, version 1.7
+
+BSD 3-Clause "New" or "Revised" License
+
+
+
+
+Anti-aliasing rasterizer from FreeType 2
+
+Freetype Project License or GNU General Public License v2.0 only
+
+
+
+
+Cocoa Platform Plugin
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+D3D12 Memory Allocator, version f128d39b7a95b4235bd228d231646278dc6c24b2
+
+MIT License
+
+
+
+
+DejaVu Fonts, version 2.37
+
+Bitstream Vera Font License
+
+
+
+
+Emoji Segmenter, version 0.4.0
+
+Apache License 2.0
+
+
+
+
+Freetype 2 - Bitmap Distribution Format (BDF) support
+
+MIT License
+
+
+
+
+Freetype 2 - Portable Compiled Format (PCF) support
+
+MIT License and MIT Open Group variant
+
+
+
+
+Freetype 2 - zlib
+
+Zlib License
+
+
+
+
+Freetype 2, version 2.14.3
+
+Freetype Project License or GNU General Public License v2.0 only
+
+
+
+
+HarfBuzz-NG, version 13.2.1
+
+MIT License
+
+
+
+
+LibJPEG-turbo, version 3.1.4
+
+Independent JPEG Group License and BSD 3-Clause "New" or "Revised" License
+
+
+
+
+LibPNG, version 1.6.56
+
+Libpng License and PNG Reference Library version 2
+
+
+
+
+MD4C, version 0.5.2
+
+MIT License
+
+
+
+
+Mipmap generator for D3D12, version 0aa79bad78992da0b6a8279ddb9002c1753cb849
+
+MIT License
+
+
+
+
+Native Style for Android
+
+Apache License 2.0
+
+
+
+
+OpenGL ES 2 Headers, version Revision 27673
+
+MIT License
+
+
+
+
+OpenGL Headers, version Revision 27684
+
+MIT License
+
+
+
+
+Pixman, version 0.17.12
+
+MIT License
+
+
+
+
+Smooth Scaling Algorithm
+
+BSD 2-clause "Simplified" License and Imlib2 License
+
+
+
+
+Vulkan API Registry, version 1.4.308
+
+Apache License 2.0 or MIT License
+
+
+
+
+Vulkan Memory Allocator, version 3.2.1
+
+MIT License
+
+
+
+
+WebGradients
+
+MIT License
+
+
+
+
+Wintab API
+
+LCS-Telegraphics License
+
+
+
+
+X Server helper
+
+X11 License and Historical Permission Notice and Disclaimer
+
+
+
+
+XCB-XInput
+
+MIT License
+
+
+
+
+sRGB color profile icc file
+
+International Color Consortium License
+
+
+
+
+
+Qt Image Formats
+
+
+
+
+
+TIFF Software Distribution (libtiff), version 4.7.1
+
+Libtiff License
+
+
+
+
+WebP (libwebp), version 1.6.0
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+
+Qt Multimedia
+
+
+
+
+
+DR Libs, version 0.14.5
+
+Unlicense or MIT No Attribution
+
+
+
+
+FFmpeg, version 7.1.3
+
+GNU Lesser General Public License v2.1 or later and BSD 3-Clause "New" or "Revised" License and BSD 2-Clause "Simplified" License and BSD Source Code Attribution and ISC License and MIT License and Mozilla Public License 2.0
+
+
+
+
+Signalsmith Stretch, version 1.0.0
+
+MIT License
+
+
+
+
+Two-Level Segregated Fit, version v3.1
+
+BSD 3-Clause "New" or "Revised" License
+
+
+
+
+boost
+
+Boost Software License 1.0
+
+
+
+
+libjpeg
+
+Independent JPEG Group License
+
+
+
+
+zlib
+
+Zlib License
+
+
+
+
+
+Qt Network
+
+
+
+
+
+The Public Suffix List, version 2026-01-16_13-11-47_UTC
+
+Mozilla Public License 2.0
+
+
+
+
+libpsl - C library to handle the Public Suffix List, version 664f3dc85259ec65e30248a61fa1c45b7b0e4c3f
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+
+Qt OPC UA
+
+
+
+
+
+Open62541, version 1.4.13
+
+Mozilla Public License 2.0 and Creative Commons Zero v1.0 Universal and Creative Commons Attribution Share Alike 4.0 International and BSD 3-Clause "New" or "Revised" License and Apache License 2.0 and MIT License
+
+
+
+
+
+Qt PDF
+
+
+
+
+
+Abseil
+
+Apache-2.0
+
+
+
+
+FreeType
+
+FTL
+
+
+
+
+PDFium
+
+BSD
+
+
+
+
+The Chromium Project
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+fast_float
+
+MIT
+
+
+
+
+harfbuzz-ng
+
+MIT-Modern-Variant
+
+
+
+
+icu
+
+MIT
+
+
+
+
+libjpeg-turbo
+
+IJG, BSD-3, Zlib
+
+
+
+
+libpng
+
+Libpng-2.0, Libpng
+
+
+
+
+zlib
+
+Zlib
+
+
+
+
+
+Qt Positioning
+
+
+
+
+
+Clip2Tri Polygon Triangulation Library, version commit f62a734d22733814b8a970ed8a68a4d94c24fa5f
+
+MIT License
+
+
+
+
+Clipper Polygon Clipping Library, version 6.4.2
+
+Boost Software License 1.0
+
+
+
+
+Poly2Tri Polygon Triangulation Library, version commit a922022da4c0d3a55b1d6b6d634219caea653053
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+
+Qt Qml
+
+
+
+
+
+JavaScriptCore Macro Assembler
+
+BSD 2-clause "Simplified" License
+
+
+
+
+
+Qt Quick
+
+
+
+
+
+Yoga, version 2.0.1
+
+MIT License
+
+
+
+
+
+Qt Quick 3D
+
+
+
+
+
+Godot Engine: Fog
+
+MIT License
+
+
+
+
+Godot Engine: ProceduralSky
+
+MIT License
+
+
+
+
+Intel Embree, version 3.13.3
+
+Apache License 2.0
+
+
+
+
+Java Native Interface for C++, version 1.0.0
+
+MIT License
+
+
+
+
+JsonCpp, version 1.9.6
+
+MIT License
+
+
+
+
+Open Asset Import Library, version 6.0.4
+
+BSD 3-clause "New" or "Revised" Licensee
+
+
+
+
+OpenXR SDK, version 1.1.49
+
+Apache License 2.0
+
+
+
+
+Tiny OpenEXR, version 1.0.12
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+meshoptimizer, version 0.23
+
+MIT License
+
+
+
+
+xatlas, version 16ace528acd2cf1f16a7c0dde99c42c486488dbe
+
+MIT License
+
+
+
+
+
+Qt Quick 3D Physics
+
+
+
+
+
+NVIDIA PhysX SDK, version PhysX_4.1.2.29882248
+
+BSD 3-Clause "New" or "Revised" License
+
+
+
+
+
+Qt Quick Controls
+
+
+
+
+
+Shadow values from Angular Material
+
+MIT License
+
+
+
+
+
+Qt SQL
+
+
+
+
+
+SQLite, version 3.51.3
+
+SQLite Blessing
+
+
+
+
+
+Qt SVG
+
+
+
+
+
+XSVG
+
+Historical Permission Notice and Disclaimer - sell variant
+
+
+
+
+
+Qt Sensors
+
+
+
+
+
+Android getRotationMatrix and getOrientation
+
+Apache License 2.0
+
+
+
+
+
+Qt Shader Tools
+
+
+
+
+
+SPIRV-Cross, version ebe2aa0cd80f5eb5cd8a605da604cacf72205f3b
+
+Apache License 2.0 and MIT Khronos - old variant
+
+
+
+
+glslang, version 15.1.0
+
+BSD 3-Clause "New" or "Revised" License, and MIT Khronos - old variant, and Apache License 2.0, and GNU General Public License v3.0 or later with Bison exception 2.2, and AML glslang variant License
+
+
+
+
+
+Qt Spatial Audio
+
+
+
+
+
+Eigen, version 3.4.0
+
+Mozilla Public License 2.0 and BSD 3-Clause "New" or "Revised" License
+
+
+
+
+Resonance Audio, version e225aedb5ec76ca6a0fe7079c0b84dbcbb490553
+
+Apache License 2.0
+
+
+
+
+pffft, version 02fe7715a5bf8bfd914681c53429600f94e0f536
+
+BSD 3-Clause "New" or "Revised" License
+
+
+
+
+
+Qt Test
+
+
+
+
+
+Catch2, version 2.13.10
+
+Boost Software License 1.0
+
+
+
+
+Cycle, version 3.3.10
+
+MIT License
+
+
+
+
+Linux Performance Events, version 6.13
+
+GNU General Public License v2.0 only with Linux Syscall Note
+
+
+
+
+Valgrind, version 3.25.1
+
+BSD 4-clause "Original" or "Old" License
+
+
+
+
+
+Qt Virtual Keyboard
+
+
+
+
+
+OpenWnn
+
+Apache License 2.0
+
+
+
+
+PinyinIME
+
+Apache License 2.0
+
+
+
+
+Traditional Chinese IME (tcime)
+
+Apache License 2.0 and BSD 3-clause "New" or "Revised" License
+
+
+
+
+
+Qt Wayland Compositor
+
+
+
+
+
+Presentation Time Protocol, version 1
+
+MIT License
+
+
+
+
+Wayland Color Management Protocol, version 1
+
+MIT License
+
+
+
+
+Wayland Dialog Protocol, version 1
+
+MIT License
+
+
+
+
+Wayland EGLStream Controller Protocol, version 1.1.1
+
+MIT License
+
+
+
+
+Wayland Fractional Scale Protocol, version 1
+
+MIT License
+
+
+
+
+Wayland Fullscreen Shell Protocol, version unstable v1
+
+MIT License
+
+
+
+
+Wayland IVI Extension Protocol, version 1.9.1
+
+MIT License
+
+
+
+
+Wayland KDE DBus Menu Protocol, version 1
+
+GNU Lesser General Public License 2.1 or later
+
+
+
+
+Wayland Linux Dmabuf Unstable V1 Protocol, version unstable v1, version 3
+
+MIT License
+
+
+
+
+Wayland Pointer Gestures Protocol, version unstable v1, version 2
+
+MIT License
+
+
+
+
+Wayland Pointer Warp Protocol, version version 1
+
+MIT License
+
+
+
+
+Wayland Primary Selection Protocol, version 1
+
+MIT License
+
+
+
+
+Wayland Protocol, version 1.23.0
+
+MIT License
+
+
+
+
+Wayland Scaler Protocol, version 2
+
+MIT License
+
+
+
+
+Wayland Tablet Protocol, version unstable v2, version 1
+
+MIT License
+
+
+
+
+Wayland Text Input Protocol v1, version unstable v1
+
+MIT License
+
+
+
+
+Wayland Text Input Protocol v2, version unstable v2
+
+HPND License
+
+
+
+
+Wayland Text Input Protocol, version unstable v3
+
+MIT License
+
+
+
+
+Wayland Viewporter Protocol, version 1
+
+MIT License
+
+
+
+
+Wayland XDG Foreign Protocol, version 1
+
+MIT License
+
+
+
+
+Wayland XDG Output Protocol, version unstable v1, version 3
+
+MIT License
+
+
+
+
+Wayland XDG Shell Protocol, version 1.18
+
+MIT License
+
+
+
+
+Wayland XDG System Bell Protocol, version 1.18
+
+MIT License
+
+
+
+
+Wayland xdg-activation Protocol, version unstable v1, version 1
+
+MIT License
+
+
+
+
+Wayland xdg-decoration Protocol, version unstable v1, version 1
+
+MIT License
+
+
+
+
+Wayland xdg-toplevel-icon Protocol, version version 1
+
+MIT License
+
+
+
+
+Wlr Data Control Unstable V1 Protocol, version 2
+
+MIT License
+
+
+
+
+
+Qt WebEngine
+
+
+
+
+
+@puppeteer/replay
+
+Apache-2.0
+
+
+
+
+@vscode/web-custom-data
+
+MIT
+
+
+
+
+AXE-CORE Accessibility Audit
+
+MPL 2.0
+
+
+
+
+Abseil
+
+Apache-2.0
+
+
+
+
+Abseil
+
+Apache-2.0
+
+
+
+
+Acorn, a tiny, fast JavaScript parser written in JavaScript.
+
+MIT
+
+
+
+
+Alliance for Open Media Video Codec
+
+BSD-2-Clause, Patent
+
+
+
+
+Alliance for Open Media Video Codec
+
+BSD-2-Clause, Patent
+
+
+
+
+Almost Native Graphics Layer Engine
+
+BSD
+
+
+
+
+Android Explicit Synchronization
+
+Apache-2.0
+
+
+
+
+Android Explicit Synchronization
+
+Apache-2.0
+
+
+
+
+BoringSSL
+
+MIT, BSD-3-Clause, OpenSSL, ISC, SSLeay
+
+
+
+
+BoringSSL
+
+MIT, BSD-3-Clause, OpenSSL, ISC, SSLeay
+
+
+
+
+Brotli
+
+MIT
+
+
+
+
+Brotli
+
+MIT
+
+
+
+
+C++ Signal/Slot Library
+
+Ignorable
+
+
+
+
+C++ Signal/Slot Library
+
+Ignorable
+
+
+
+
+CRC32C
+
+BSD-3-Clause
+
+
+
+
+CRC32C
+
+BSD-3-Clause
+
+
+
+
+CSP Evaluator Core Library, a tool that allows developers to check if a Content Security Policy (CSP) serves as mitigation against XSS attacks
+
+Apache
+
+
+
+
+Chromium License
+
+BSD
+
+
+
+
+CityHash
+
+MIT
+
+
+
+
+CityHash
+
+MIT
+
+
+
+
+CodeMirror 5
+
+MIT
+
+
+
+
+CodeMirror 6
+
+MIT
+
+
+
+
+Compact Encoding Detection
+
+Apache-2.0
+
+
+
+
+Compact Encoding Detection
+
+Apache-2.0
+
+
+
+
+Compact Language Detector v3
+
+Apache-2.0
+
+
+
+
+Crashpad
+
+Apache-2.0
+
+
+
+
+Crashpad
+
+Apache-2.0
+
+
+
+
+Dawn
+
+BSD 3-Clause
+
+
+
+
+Devtools-Frontend
+
+BSD-3-Clause
+
+
+
+
+Emoji Segmenter
+
+Apache-2.0
+
+
+
+
+Expat XML Parser
+
+MIT
+
+
+
+
+Expat XML Parser
+
+MIT
+
+
+
+
+FP16
+
+MIT
+
+
+
+
+Fiat-Crypto: Synthesizing Correct-by-Construction Code for Cryptographic Primitives
+
+Apache 2.0
+
+
+
+
+Fiat-Crypto: Synthesizing Correct-by-Construction Code for Cryptographic Primitives
+
+Apache 2.0
+
+
+
+
+FlatBuffers
+
+Apache-2.0
+
+
+
+
+General Purpose FFT (Fast Fourier/Cosine/Sine Transform) Package
+
+Custome license
+
+
+
+
+General Purpose FFT (Fast Fourier/Cosine/Sine Transform) Package
+
+Custome license
+
+
+
+
+Google Double Conversion
+
+BSD-3-Clause
+
+
+
+
+Google Double Conversion
+
+BSD-3-Clause
+
+
+
+
+Headers for the Windows 10 WebAuthn API (webauthn.dll)
+
+MIT
+
+
+
+
+Highway: C++ library for SIMD
+
+Apache-2.0
+
+
+
+
+Implementation of WebDriver BiDi standard
+
+Apache 2.0
+
+
+
+
+Ink
+
+Apache-2.0
+
+
+
+
+Ink Stroke Modeler
+
+Apache-2.0
+
+
+
+
+LevelDB: A Fast Persistent Key-Value Store
+
+BSD-3-Clause
+
+
+
+
+Libtess2
+
+SGI Free Software License B
+
+
+
+
+Lighthouse
+
+Apache License 2.0
+
+
+
+
+Lighthouse i18n.js
+
+Apache License 2.0
+
+
+
+
+Lit
+
+BSD-3
+
+
+
+
+Lit
+
+BSD-3-Clause
+
+
+
+
+Lit
+
+BSD-3-Clause
+
+
+
+
+Marked
+
+MIT
+
+
+
+
+Material color utilities
+
+Apache-2.0
+
+
+
+
+Metrics Protos
+
+BSD-3-Clause
+
+
+
+
+Metrics Protos
+
+BSD-3-Clause
+
+
+
+
+NVidia Control X Extension Library
+
+MIT
+
+
+
+
+OTS (OpenType Sanitizer)
+
+BSD-3-Clause
+
+
+
+
+One Euro Filter
+
+BSD-3-Clause
+
+
+
+
+PDFium
+
+BSD
+
+
+
+
+PFFFT: a pretty fast FFT.
+
+Pffft
+
+
+
+
+PFFFT: a pretty fast FFT.
+
+Pffft
+
+
+
+
+PSM (Private Set Membership) client side
+
+Apache-2.0
+
+
+
+
+Paul Hsieh&#x27;s SuperFastHash
+
+BSD-3-Clause
+
+
+
+
+Paul Hsieh&#x27;s SuperFastHash
+
+BSD-3-Clause
+
+
+
+
+Perfetto
+
+Apache2
+
+
+
+
+Perfetto
+
+Apache2
+
+
+
+
+Polymer
+
+BSD-3-Clause
+
+
+
+
+Polymer
+
+BSD-3-Clause
+
+
+
+
+Protocol Buffers
+
+BSD-3-Clause
+
+
+
+
+Protocol Buffers
+
+BSD-3-Clause
+
+
+
+
+Protocol Buffers (javascript)
+
+BSD-3-Clause
+
+
+
+
+Protocol Buffers (javascript)
+
+BSD-3-Clause
+
+
+
+
+Puppeteer Core
+
+Apache-2.0
+
+
+
+
+QUICHE
+
+BSD-3-Clause
+
+
+
+
+QUICHE
+
+BSD-3-Clause
+
+
+
+
+Recurrent neural network for audio noise reduction
+
+BSD-3-Clause
+
+
+
+
+Recurrent neural network for audio noise reduction
+
+BSD-3-Clause
+
+
+
+
+SPIR-V Headers
+
+Apache-2.0
+
+
+
+
+SPIR-V Tools
+
+Apache-2.0
+
+
+
+
+Search Engines resources
+
+BSD-3-Clause
+
+
+
+
+Selenium Atoms
+
+Apache-2.0
+
+
+
+
+Simple Homomorphic Encryption Library with Lattices
+
+Apache-2.0
+
+
+
+
+Sizzle
+
+MIT
+
+
+
+
+Snappy: A fast compressor/decompressor
+
+BSD-3-Clause, CC-BY-4.0, MIT, CC-BY-3.0
+
+
+
+
+Speech Dispatcher
+
+LGPL-2.1
+
+
+
+
+The Chromium Project
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+The Chromium Project
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchronizing plain text.
+
+Apache License 2.0
+
+
+
+
+The Incremental Distributed Point Functions library
+
+Apache-2.0
+
+
+
+
+URI Template Parser
+
+Apache-2.0
+
+
+
+
+URI Template Parser
+
+Apache-2.0
+
+
+
+
+URL Pattern Library
+
+MIT
+
+
+
+
+URL Pattern Library
+
+MIT
+
+
+
+
+V8 fork of fdlibm
+
+SunPro
+
+
+
+
+Volk Meta loader for Vulkan API
+
+MIT
+
+
+
+
+Vulkan API headers
+
+Apache-2.0
+
+
+
+
+Vulkan API headers
+
+Apache-2.0
+
+
+
+
+Vulkan Loader Components
+
+Apache-2.0
+
+
+
+
+VulkanMemoryAllocator
+
+MIT
+
+
+
+
+Wasmparser
+
+Apache
+
+
+
+
+Web Vitals
+
+Apache
+
+
+
+
+WebKit
+
+BSD and LGPL v2 and LGPL v2.1
+
+
+
+
+WebKit
+
+BSD and LGPL v2 and LGPL v2.1
+
+
+
+
+WebM container parser and writer.
+
+BSD-3-Clause, Patent
+
+
+
+
+WebP image encoder/decoder
+
+BSD-3-Clause, Patent
+
+
+
+
+WebP image encoder/decoder
+
+BSD-3-Clause, Patent
+
+
+
+
+WebRTC
+
+BSD
+
+
+
+
+WebRTC
+
+BSD
+
+
+
+
+Wicked Good XPath
+
+MIT
+
+
+
+
+Wuffs (Wrangling Untrusted File Formats Safely)
+
+Apache-2.0
+
+
+
+
+Wuffs (Wrangling Untrusted File Formats Safely)
+
+Apache-2.0
+
+
+
+
+Zstandard
+
+BSD-3-Clause
+
+
+
+
+Zstandard
+
+BSD-3-Clause
+
+
+
+
+cpuinfo
+
+BSD-2-Clause
+
+
+
+
+d3
+
+ISC
+
+
+
+
+d3
+
+ISC
+
+
+
+
+dav1d is an AV1 decoder :)
+
+BSD-2-Clause
+
+
+
+
+dav1d is an AV1 decoder :)
+
+BSD-2-Clause
+
+
+
+
+fast_float
+
+MIT
+
+
+
+
+ffmpeg
+
+LGPL 2.1
+
+
+
+
+fft
+
+Custom license
+
+
+
+
+fft
+
+Custom license
+
+
+
+
+flac
+
+BSD
+
+
+
+
+fontconfig
+
+Public-domain-md5, MIT-Modern-Variant, HPND-sell-variant, MIT
+
+
+
+
+fontconfig
+
+Public-domain-md5, MIT-Modern-Variant, HPND-sell-variant, MIT
+
+
+
+
+google-glog&#x27;s symbolization library
+
+BSD-3-Clause
+
+
+
+
+google-glog&#x27;s symbolization library
+
+BSD-3-Clause
+
+
+
+
+harfbuzz-ng
+
+MIT-Modern-Variant
+
+
+
+
+harfbuzz-ng
+
+MIT-Modern-Variant
+
+
+
+
+hunspell
+
+MPL-1.1
+
+
+
+
+icu
+
+MIT
+
+
+
+
+icu
+
+MIT
+
+
+
+
+inspector protocol
+
+BSD
+
+
+
+
+inspector protocol
+
+BSD-3-Clause
+
+
+
+
+intl-messageformat
+
+New BSD
+
+
+
+
+ipcz
+
+BSD
+
+
+
+
+ipcz
+
+BSD
+
+
+
+
+json5
+
+MIT
+
+
+
+
+jsoncpp
+
+JsonCPP
+
+
+
+
+jsoncpp
+
+JsonCPP
+
+
+
+
+libaddressinput
+
+Apache-2.0
+
+
+
+
+libavif - Library for encoding and decoding .avif files
+
+BSD-2-Clause, MIT
+
+
+
+
+libgav1
+
+Apache-2.0
+
+
+
+
+libpng
+
+Libpng-2.0, Libpng
+
+
+
+
+libpng
+
+Libpng-2.0, Libpng
+
+
+
+
+libsrtp
+
+3-clause BSD
+
+
+
+
+libsrtp
+
+3-clause BSD
+
+
+
+
+libvpx
+
+BSD-3-Clause, Patent
+
+
+
+
+libvpx
+
+BSD-3-Clause, Patent
+
+
+
+
+libxml
+
+MIT
+
+
+
+
+libxslt
+
+X11
+
+
+
+
+libyuv
+
+BSD
+
+
+
+
+libyuv
+
+BSD
+
+
+
+
+mesa_headers
+
+MIT, SGI-B-2.0
+
+
+
+
+minigbm
+
+BSD-3-Clause
+
+
+
+
+mitt
+
+MIT
+
+
+
+
+modp base64 decoder
+
+BSD-3-Clause
+
+
+
+
+modp base64 decoder
+
+BSD-3-Clause
+
+
+
+
+opus
+
+Opus-Patent-BSD-3-Clause
+
+
+
+
+opus
+
+Opus-Patent-BSD-3-Clause
+
+
+
+
+rapidhash
+
+BSD-2-Clause
+
+
+
+
+re2 - an efficient, principled regular expression library
+
+BSD-3-Clause
+
+
+
+
+re2 - an efficient, principled regular expression library
+
+BSD-3-Clause
+
+
+
+
+simdutf unicode transcoder
+
+MIT
+
+
+
+
+simdutf unicode transcoder
+
+MIT
+
+
+
+
+spl sqrt floor
+
+SPL-SQRT-FLOOR
+
+
+
+
+spl sqrt floor
+
+SPL-SQRT-FLOOR
+
+
+
+
+sqlite
+
+Blessing
+
+
+
+
+sqlite
+
+Blessing
+
+
+
+
+third-party-web
+
+MIT
+
+
+
+
+woff2
+
+MIT
+
+
+
+
+xdg-user-dirs
+
+MIT
+
+
+
+
+xdg-user-dirs
+
+MIT
+
+
+
+
+zlib
+
+Zlib
+
+
+
+
+zlib
+
+Zlib
+
+
+
+
+zod
+
+MIT
+
+
+
+
+
+Additional Information
+
+
+The following table lists related documents, such as information about Trademarks and other licenses used in parts of Qt.
+
+
+
+
+
+Android GNU C++ Run-time Licensing
+
+Provides additional information about the licensing of run-time dependencies of Qt for Android
+
+
+
+
+LLVM Attribution
+
+University of Illinois/NCSA Open Source License, BSD licenses
+
+
+
+
+License Changes
+
+Information about changes of licenses in Qt and Third Party Modules
+
+
+
+
+Macros for Building with CMake
+
+BSD 3-clause "New" or "Revised" License
+
+
+
+
+Mesa llvmpipe
+
+MIT License and Boost Software License 1.0
+
+
+
+
+Notes about PDF Licensing
+
+Details of restrictions on the use of PDF-related trademarks
+
+
+
+
+Software Bill of Materials
+
+Qt package information in SPDX format
+
+
+
+
+The QtEntryPoint Library
+
+Commercial and BSD 3-clause "New" or "Revised" License.
+
+
+
+
+Trademarks
+
+Information about trademarks owned by The Qt Company.
+
+
+
+
+
+
+
+
+
+
+Qt Licensing
+License of Qt examples
+
+
+
+
+
+
+© 2026 The Qt Company Ltd.
+   Documentation contributions included herein are the copyrights of
+   their respective owners.     The documentation provided herein is licensed under the terms of the    GNU Free Documentation    License version 1.3 as published by the Free Software Foundation.     Qt and respective logos are     trademarks of The Qt Company Ltd. in Finland and/or other countries
+   worldwide. All other trademarks are property of their respective owners. 
+
+
+                    
+
+                
+                
+                    
+
+                                                Contents
+                        
+                            
+
+
+Additional Information
+
+
+
+                        
+                                            
+
+                                        
+
+                                                Next
+                        
+                            
+
+License of Qt examples
+
+
+                        
+                                                Previous
+                        
+                            
+
+Qt Licensing
+
+
+                        
+                                            
+
+                                    
+            
+
+        
+
+    
+
+
+
+
+
+
+
+    
+
+        
+
+            
+
+                
+
+                    
+                    
+                    
+                
+
+                
+
+                    
+                    
+                    
+                    
+                
+
+                
+
+                        Contact Us
+                
+
+
+            
+
+            
+
+                
+
+
+                        
+
+
+  
+Qt Group
+   
+    
+Our Story
+
+    
+Brand
+
+    
+News
+
+    
+Careers
+
+    
+Investors
+
+    
+Qt Products
+
+    
+Software Quality Products
+
+   
+
+  
+Licensing
+   
+    
+License Agreement
+
+    
+Open Source
+
+    
+Plans and pricing
+
+    
+Download
+
+    
+FAQ
+
+   
+
+  
+Learn Qt
+   
+    
+For Learners
+
+    
+For Students and Teachers
+
+    
+Qt Documentation
+
+    
+Qt Forum
+
+   
+
+  
+Support & Services
+   
+    
+Professional Services
+
+    
+Customer Success
+
+    
+Support Services
+
+    
+Partners
+
+    
+Qt World
+
+   
+
+ 
+
+
+      
+
+   
+
+
+
+        
+
+            
+
+                
+
+                    
+
+ 
+  
+© 2026 The Qt Company
+
+  
+Feedback
+
+ 
+
+
+                    
+Qt Group includes The Qt Company Oy and its global subsidiaries and affiliates.
+
+                
+
+            
+
+            
+
+            
+
+        
+
+    
+
+
+
+

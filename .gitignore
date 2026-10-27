@@ -1,0 +1,10 @@
+/runtime/
+/bin/*.exe
+/*.exe
+/*.zip
+/SHA256SUMS.txt
+__pycache__/
+*.pyc
+.env
+*.credentials
+*.saz
